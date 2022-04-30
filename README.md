@@ -15,6 +15,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yarestem&show_icons=true&locale=en&include_all_commits=true&theme=chartreuse-dark" width="494px"/>
-   <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yarestem&show_icons=true&locale=en&include_all_commits=true&theme=chartreuse-dark" width="494px"/></p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yarestem&layout=compact&locale=en&theme=chartreuse-dark" width="349px" "/></p>
