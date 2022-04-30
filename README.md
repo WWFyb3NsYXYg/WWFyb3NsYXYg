@@ -13,6 +13,6 @@
 </a>&nbsp;&nbsp;
 
 ## Статистика
-<a><img align="middle" src="https://github-readme-stats.vercel.app/api?username=yarestem&show_icons=true&locale=en&include_all_commits=true&theme=chartreuse-dark"/></a>
-<a><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yarestem&layout=compact&locale=en&theme=chartreuse-dark"/></a>
+<a><img src="https://github-readme-stats.vercel.app/api?username=yarestem&show_icons=true&locale=en&include_all_commits=true&theme=chartreuse-dark"/></a>
+<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yarestem&layout=compact&locale=en&theme=chartreuse-dark"/></a>
 
