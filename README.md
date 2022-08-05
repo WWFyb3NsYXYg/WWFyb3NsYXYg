@@ -9,7 +9,7 @@
 <a href="https://www.youtube.com/channel/UC3yglij2URE4xiCoC-fa0oA">
    <img align="center" alt="youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>&nbsp;&nbsp;
-<a href="https://discord.gg/yWw75N7WSn">
+<a href="/">
    <img align="center" alt="discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
 </a>&nbsp;&nbsp;
 </p>
