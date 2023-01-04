@@ -1,4 +1,4 @@
-<h3 align="center" style="color:Black">🛠️ Это GitHub Yarestem'a 🛠️</h3>
+<h3 align="center" style="color:Black">🛠️ Это GitHub Yaroslav'a 🛠️</h3>
 
 <br />
 <p align="center">
@@ -15,6 +15,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=minestrim&show_icons=true&locale=en&include_all_commits=true&theme=chartreuse-dark" width="494px"/></p>
+  <img src="https://github-readme-stats.vercel.app/api?username=WWFyb3NsYXYg&show_icons=true&locale=en&include_all_commits=true&theme=chartreuse-dark" width="494px"/></p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minestrim&layout=compact&locale=en&theme=chartreuse-dark" width="349px" "/></p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WWFyb3NsYXYg&layout=compact&locale=en&theme=chartreuse-dark" width="349px" "/></p>
